@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:/Users/denis/Desktop/FrenchKit/FrenchKit-EmpowerYourDataSourcesWithSomeFlexibility.xcworkspace/FrenchKit-EmpowerYourDataSourcesWithSomeFlexibility.playground/">
+   </FileRef>
+   <FileRef
+      location = "container:FrenchKit-EmpowerYourDataSourcesWithSomeFlexibility.xcworkspace/Projects/differencekit/DifferenceKit.xcodeproj">
+   </FileRef>
+</Workspace>
